@@ -1,7 +1,9 @@
 {
-  "name": "ejerciciodatcom",
-  "version": "0.1.0",
-  "private": true,
+  "name": "ejerciciodatcom-diegoullua",
+  "version": "0.1.1",
+  "description": "ejercicio pedido para el puesto react dev jr",
+  "main": "src/App.js",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
