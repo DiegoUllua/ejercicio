@@ -96,6 +96,7 @@ function App() {
     <div className="App bg-gradient-danger">
       <div className="container col-6 pt-4 mt-3"> 
       <h1>EJERCICIO DATCOM</h1>
+      <p>Busca imágenes y nombres de bebidas por su categoría</p>
       {!fetching
       
       
@@ -115,13 +116,13 @@ function App() {
                 <button
                 className="btn btn-warning mr-2"
                 onClick={dejarUnaOpcion}
-                >Dejar como unica opcion</button>
+                >Dejar como única opción</button>
       
                 <button
                 className="btn btn-danger"
                 onClick={borrarBusqueda}
                 >
-                Borrar Busqueda </button>
+                Borrar Búsqueda </button>
               </div>
    
          </div>
